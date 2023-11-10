@@ -20,7 +20,7 @@ const int SOCKET_ERROR = -1;
 #include <atomic>
 #include <functional>
 #include <exception>
-
+#include <cstdint>
 
 namespace masesk {
 	const int BUFF_SIZE = 4096;
